@@ -1,0 +1,31 @@
+{
+  "name": "Mihawk",
+  "version": "0.1.0",
+  "description": "Me llamo Mihwak soy un bot preparado para hacer cosas de diversion",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "reezdb": "^1.2.0",
+    "reezutils": "^0.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
